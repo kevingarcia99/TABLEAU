@@ -9,6 +9,6 @@
 - Gráfica 3: Indeed fue la plataforma por donde se contrataron el mayor número de empleados.
 - Gráfica 4: Se muestra la cantidad de empleados por departamento dividido por género.
 
-https://public.tableau.com/app/profile/kevin.garc.a2353/viz/BUENO_17245598465000/CASOPRACTICO
+https://public.tableau.com/app/profile/kevin.garc.a2353/viz/BUENO_17245612022230/CASOPRACTIC
 
  
